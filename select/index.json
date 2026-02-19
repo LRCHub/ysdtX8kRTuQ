@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "残酷な夜に輝け - Shine in the Cruel Night",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-19T15:32:07.963314Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "残酷な夜に輝け",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_残酷な夜に輝け_LiSA.txt"
+    }
+  ]
+}
